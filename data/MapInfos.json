@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":448},
-{"id":2,"expanded":false,"name":"Normal Town","order":2,"parentId":1,"scrollX":1099,"scrollY":762}
+{"id":2,"expanded":true,"name":"Main","order":2,"parentId":0,"scrollX":1101,"scrollY":1020},
+{"id":3,"expanded":false,"name":"Desert","order":3,"parentId":2,"scrollX":2061,"scrollY":440}
 ]
