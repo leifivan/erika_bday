@@ -9,5 +9,6 @@ var $plugins =
 {"name":"MOG_MapNameHud","status":true,"description":"(v1.3) Apresenta uma Hud com o nome do mapa.","parameters":{"Hud X-Axis":"250","Hud Y-Axis":"60","Name X-Axis":"80","Name Y-Axis":"15","Duration":"160","Font Size":"20","Font Italic":"false","Slide Animation":"true","Zoom Animation":"false","Zoom Text Animation":"true","Particle Animation":"true","Particles Number":"15","Circle Animation":"true","Circle X-Axis":"-120","Circle Y-Axis":"0","Circle Z-Index":"0","Circle Rotation Speed":"0.01"}},
 {"name":"MOG_DestinationPointer","status":true,"description":"(v1.0) Permite customizar a imagem do cursor do destino.","parameters":{"X-Axis Offset":"0","Y-Axis Offset":"0","Smooth Movement":"true","Zoom Animation":"false","Blink Animation":"false","Float Animation":"true","Blend Mode":"0","Rotation Speed":"0","Number of Frames":"1","Animation Speed":"4"}},
 {"name":"MOG_DizzyEffect","status":true,"description":"(v1.0) Adiciona o efeito Dizzy.","parameters":{}},
-{"name":"MOG_PixiFilters","status":true,"description":"(v1.5) Ativa alguns filtros gráficos padrões do Rpg Maker MV.","parameters":{}}
+{"name":"MOG_PixiFilters","status":true,"description":"(v1.5) Ativa alguns filtros gráficos padrões do Rpg Maker MV.","parameters":{}},
+{"name":"MOG_AnimatedText","status":true,"description":"(v1.3) Apresenta multiplos textos animados.","parameters":{"Letter Space X-Axis":"0","Letter Space Y-Axis":"0"}}
 ];
